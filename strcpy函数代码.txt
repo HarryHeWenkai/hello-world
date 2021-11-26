@@ -9,4 +9,7 @@ char* StrCpy(char* src)
 	str[len] = '\0';
 	return str;
 }
-/**本地编辑**/
+
+
+/*remote edit B20031717何文楷*/
+
